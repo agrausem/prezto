@@ -41,14 +41,15 @@ zstyle ':prezto:load' pmodule \
   'history-substring-search' \
   'prompt' \
   'git' \
+  'docker' \
   'sdkman' \
   'poetry' \
-  'poethepoet' \
   'nvm' \
   'chouffe' \
-  'krew' \
   'virtualenv' \
-  'rust'
+  'rust' \
+  'jetbrains' \
+  'edqm'
 
 #
 # Autosuggestions
