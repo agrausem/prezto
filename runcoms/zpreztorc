@@ -46,7 +46,10 @@ zstyle ':prezto:load' pmodule \
   'poetry' \
   'nvm' \
   'chouffe' \
-  'virtualenv' \
+#  'sdkman' \
+#  'poethepoet' \
+#  'krew' \
+#  'virtualenv' \
   'rust' \
   'jetbrains' \
   'edqm'
